@@ -1,7 +1,7 @@
 #!/bin/bash
 
 printf "Calabash installer started..\n";
-printf "Run this script using the command 'source ./calabash-installer.sh'";
+printf "Run this script using the command 'source ./calabash-installer.sh'\n";
 printf "IT WILL FAIL IF UNSOURCED!";
 sleep 4;
 sudo apt-get update;
